@@ -1,0 +1,17 @@
+* { margin: 0%; padding: 0%;}
+
+
+.navigation {
+  height: 35px;
+  background-color: #0d5a19;
+}
+
+.content {
+  height: 64px;
+  background-color: #711286;
+}
+
+.footer {
+  height: 55px;
+  background-color: #424497;
+}
