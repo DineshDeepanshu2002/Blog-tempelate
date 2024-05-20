@@ -34,3 +34,14 @@
    margin: 0 13px ;
 font-family: var(--font2);
 }
+
+
+.form-box input, textarea{
+  width: 52vw;
+  padding: 0px 6px;
+  margin: 7px 0;
+  font-size: 18px;
+  font-family: var(--font1);
+  border: 2px solid var(--main-bg-color);
+    border-radius: 5px;
+}
